@@ -1,0 +1,14 @@
+
+main{text-align: center;background-color: darkcyan;}
+header{text-align: center; display: inline-block; margin-left: 33%; margin-right: auto;}
+
+h1{text-align: center; text-transform: uppercase;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+;background-color: black;color: whitesmoke;font-size: 50px;}
+main p {background-color: black;color: cornflowerblue;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;font-size: 30px;display: block;padding:100px}
+span{color: bisque;}
+footer{text-align: center;}
+
+
+
+
